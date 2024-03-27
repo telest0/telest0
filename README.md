@@ -1,22 +1,21 @@
 ### Summary 👋
 
-Senior DevOps practice focused on Architecture, Development, and Operations.
+Senior DevOps focused on Architecture, Development, and Operations.
 
 ### Focused on Cloud Solutions Development and Operations
 11+ years in IT & Telecom industry
 Certified Cloud expert
 
-### Today senior DevOps engineer
-- Configure and automate the processes associated with the company's activities.
-- Deploying and supporting a project based on a microservice architecture
-- Research of new technologies and their implementation in existing projects
+### Today. Senior DevOps engineer
+- Expertise in configuring and automating processes to optimize company activities.
+- Proficient in deploying and supporting projects based on microservice
+- Dedicated to researching and implementing new technologies to enhance existing projects.
 
 ### 5 years as Voip Engineer:
-- Deploying, integrating, and supporting Contact Center solutions for customers;
-- Administration of the office’s IP PBX based on Asterisk;
-- Maintenance of the network(WAN, LAN);
-- Supporting continuous integration systems (SVN, Jenkins, Nexus, Docker);
-- Administration of Microsoft Cloud (Azure);
+- Successfully deployed, integrated, and supported Contact Center solutions for clients, ensuring seamless operation.
+- Administered the office’s IP PBX based on Asterisk, optimizing performance and reliability.
+- Maintained network infrastructure (WAN, LAN) and supported continuous integration systems (SVN, Jenkins, Nexus, Docker).
+- Managed Microsoft Cloud (Azure) administration, ensuring smooth operation and integration.
 
 ### Skilset
 - Experienced in  AWS, Azure
