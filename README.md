@@ -1,4 +1,4 @@
-## Summary 👋
+### Summary 👋
 
 Senior DevOps practice focused on Architecture, Development, and Operations.
 
