@@ -1,3 +1,6 @@
+## Oleh Salohub 
+[LinkedIn](https://www.linkedin.com/in/oleh-salohub-devops)
+
 ### Summary 👋
 
 Senior DevOps focused on Architecture, Development, and Operations.
