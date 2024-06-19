@@ -19,7 +19,7 @@ Certified Cloud expert
 - Maintained network infrastructure (WAN, LAN) and supported continuous integration systems (SVN, Jenkins, Nexus, Docker).
 - Managed Microsoft Cloud (Azure) administration, ensuring smooth operation and integration.
 
-### Skilset
+### Skillset
 - Experienced in  AWS, Azure
 - Focused on Cloud CI/CD and IaC
 - Coding/Scripting: read and write Python, Shell
