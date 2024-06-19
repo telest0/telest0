@@ -5,7 +5,6 @@
 
 Senior DevOps focused on Architecture, Development, and Operations.
 
-### Focused on Cloud Solutions Development and Operations
 11+ years in IT & Telecom industry
 Certified Cloud expert
 
