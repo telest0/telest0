@@ -1,7 +1,9 @@
-## Oleh Salohub 
-[LinkedIn](https://www.linkedin.com/in/oleh-salohub-devops)
+<h1>Oleh Salohub</h1>
 
-### Summary 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleh-salohub-devops)
+
+<h2 align="center">Summary</h3>
 
 Senior DevOps focused on Architecture, Development, and Operations.
 
@@ -28,7 +30,13 @@ Certified Cloud expert
 - Microservices Architecture / Development
 - Extended knowledge: Realtime Communication Solutions, VoIP
 - Manager skills: Team Leader
+  
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,ansible,terraform,github,gitlab,kubernetes,linux,py)](https://skillicons.dev)
 
 Good in communication, strong team leading, problem localization and solving, talent acquisition, planning and time management, project management and reporting, critical and open-minded, self-motivated and self-management, ability to self-education.
 
 English - upper intermediate.
+
+[![telest0 profile views](https://u8views.com/api/v1/github/profiles/9203831/views/day-week-month-total-count.svg)](https://u8views.com/github/telest0)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=telest0&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
