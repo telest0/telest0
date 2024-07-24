@@ -1,9 +1,12 @@
-<h1>Oleh Salohub</h1>
+<p align="center">
+    <img src="https://www.droptica.pl/sites/droptica.pl/files/styles/blog_banner_image/public/media/image/continuous-integration.png?itok=gpi1ZC4P">
+  </a>
+</p>
 
+<h1 align="center">Oleh Salohub</h1>
 
+## Summary
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleh-salohub-devops)
-
-<h2 align="center">Summary</h3>
 
 Senior DevOps focused on Architecture, Development, and Operations.
 
